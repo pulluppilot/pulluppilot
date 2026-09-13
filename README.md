@@ -1,16 +1,13 @@
-## Hi there 👋
+# PullUp Pilot
 
-<!--
-**pulluppilot/pulluppilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free adaptive pull-up training for beginners and experienced athletes. Start from your current strict maximum, log each session, and get the next session by email.
 
-Here are some ideas to get you started:
+## Useful resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Find your pull-up benchmark](https://pulluppilot.com/pull-up-standards) with clear context for age, sex, and bodyweight.
+- [Train for your first pull-up](https://pulluppilot.com/first-pull-up) with assisted reps, negatives, and a simple progression.
+- [Start a free 12-week plan](https://pulluppilot.com) that adjusts to what you log.
+
+## Open data
+
+Our [pull-up standards data and JavaScript tools](https://github.com/pulluppilot/pull-up-standards-data) keep public benchmarks and training stages transparent, testable, and reusable.
